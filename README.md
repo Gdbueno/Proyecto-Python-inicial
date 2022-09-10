@@ -5,3 +5,5 @@ Consta de un módulo de funciones y un modulo principal desde el cual se llama a
 Autor: Bueno Guillermo
 Version: 1.0
 guillermodavidbueno@gmail.com
+
+![Flujo del programa](https://user-images.githubusercontent.com/109253840/189501463-68f6746d-8b8c-426a-8941-75df2d1c9f53.png)
