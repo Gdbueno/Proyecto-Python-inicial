@@ -6,4 +6,4 @@ Consta de un módulo de funciones y un modulo principal desde el cual se llama a
 # Version: 1.0
 
 
-![Flujo del programa](https://user-images.githubusercontent.com/109253840/189502351-3851f68b-d77d-4797-bcb9-1d2e9c617819.png)
+![Flujo del programa](https://user-images.githubusercontent.com/109253840/189502992-4a4f0497-e1bc-423e-a5e7-fc3b33292992.png)
